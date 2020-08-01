@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "585212783215",
+    "firebase_url": "https://newsaty-527f5.firebaseio.com",
+    "project_id": "newsaty-527f5",
+    "storage_bucket": "newsaty-527f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585212783215:android:739ab33a69955ec9c2fb9a",
+        "android_client_info": {
+          "package_name": "com.example.newsaty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585212783215-d1vjjmnr6dkbk6fim5la2c3n97e91bmh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newsaty",
+            "certificate_hash": "28f59a521f84356efd9e1df27b772d68d8771cc8"
+          }
+        },
+        {
+          "client_id": "585212783215-lqggp68ockagihcdm071a0qs6eo5jc3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFANgaV6C1aKnTNFQbChbO49HXx6gLW98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585212783215-lqggp68ockagihcdm071a0qs6eo5jc3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
