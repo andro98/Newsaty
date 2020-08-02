@@ -36,7 +36,7 @@ class NewsCard extends StatelessWidget {
                     article.urlToImage,
                     fit: BoxFit.fill,
                     height: 150,
-                  ): Icon(Icons.info),
+                  ): Center(child: Icon(Icons.info)),
                 ),
               ),
               Expanded(

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:newsaty/View/Pages/HomePage.dart';
+import 'package:newsaty/View/Pages/LoginPage.dart';
 import 'package:newsaty/ViewModel/AuthProvider.dart';
 import 'package:newsaty/ViewModel/NewsProvider.dart';
 import 'package:provider/provider.dart';
@@ -23,7 +24,7 @@ class MyApp extends StatelessWidget {
           primarySwatch: Colors.blue,
           visualDensity: VisualDensity.adaptivePlatformDensity,
         ),
-        home: HomePage(),
+        home: LoginPage(),
       ),
     );
   }
